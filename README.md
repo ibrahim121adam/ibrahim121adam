@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ibrahim Adam
 
-<!--
-**ibrahim121adam/ibrahim121adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | 🎨 Interior Designer | 🩺 Ex-Nurse  
+I design patient-centered clinics and build clean, responsive web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+
+- 🔗 [GitHub](https://github.com/ibrahim121adam)
+- 🐦 [Twitter / X](https://x.com/ibrahim121adam)
+- 💼 [LinkedIn](https://linkedin.com/in/ibrahim121adam)
+- 📧 Email: ibrahim121adam@gmail.com
+
+---
+
+🚀 Currently learning: JavaScript & Interior Lighting Design  
+🎨 Passionate about healthcare space planning and UI/UX design
