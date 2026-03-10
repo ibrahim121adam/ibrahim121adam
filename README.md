@@ -1,18 +1,32 @@
 # 👋 Hi, I'm Ibrahim Adam
 
-💻 Frontend Developer | 🎨 Interior Designer | 🩺 Ex-Nurse  
-I design patient-centered clinics and build clean, responsive web interfaces.
+🩺 **Ex-Nurse** | 📊 **Aspiring Healthcare Data Analyst** | 🇦🇪 Based in UAE
+
+I bridge the gap between clinical expertise and data-driven insights. After 5+ years in nursing, I am now leveraging my clinical background to transform healthcare data into actionable insights using SQL and Power BI.
 
 ---
 
 ## 🌐 Connect with me
 
-- 🔗 [GitHub](https://github.com/ibrahim121adam)
-- 🐦 [Twitter / X](https://x.com/ibrahim121adam)
-- 💼 [LinkedIn](https://linkedin.com/in/ibrahim121adam)
-- 📧 Email: ibrahim121adam@gmail.com
+- 💼 **LinkedIn:** [in/ibrahim121adam](https://linkedin.com/in/ibrahim121adam)
+- 📧 **Email:** [ibrahim121adam@gmail.com](mailto:ibrahim121adam@gmail.com)
 
 ---
 
-🚀 Currently learning: JavaScript & Interior Lighting Design  
-🎨 Passionate about healthcare space planning and UI/UX design
+## 🚀 My Roadmap (2026)
+
+- 🎯 **Current Focus:** Healthcare Data Analytics (SQL & Power BI).
+- 🩺 **Clinical Edge:** Deep understanding of Clinical Documentation, Patient Safety, and Hospital Workflows.
+- 💻 **Technical Background:** Solid foundation in responsive web interfaces, now focused on Data Dashboards.
+
+---
+
+## 🛠 Tech Stack (In Progress)
+
+- **Data Analysis:** SQL (Certified), Power BI (Learning), Excel.
+- **Healthcare Expertise:** Clinical Data Interpretation, Patient-Centered Care.
+
+---
+
+### 🎨 Passion
+I combine **Healthcare Space Planning** knowledge with **Data Visualization** to create systems that truly improve patient outcomes.
