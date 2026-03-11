@@ -27,25 +27,25 @@ I bridge the gap between clinical expertise and data-driven insights. After 5+ y
 
 ### Data & Analytics
 <p align="center">
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ### Web & Tools
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### Healthcare Expertise
 <p align="center">
-  <img alt="Clinical Data" src="https://img.shields.io/badge/Clinical%20Data-00A98F?style=flat-square&logo=health&logoColor=white" />
-  <img alt="Patient Safety" src="https://img.shields.io/badge/Patient%20Safety-007396?style=flat-square&logo=patient&logoColor=white" />
-  <img alt="EMR/EHR" src="https://img.shields.io/badge/EMR%2FEHR-2C3E50?style=flat-square&logo=electronic-health-records&logoColor=white" />
+  <img alt="Clinical Data" src="https://img.shields.io/badge/Clinical%20Data-00A98F?style=for-the-badge&logo=health&logoColor=white" />
+  <img alt="Patient Safety" src="https://img.shields.io/badge/Patient%20Safety-007396?style=for-the-badge&logo=patient&logoColor=white" />
+  <img alt="EMR/EHR" src="https://img.shields.io/badge/EMR%2FEHR-2C3E50?style=for-the-badge&logo=electronic-health-records&logoColor=white" />
 </p>
 
 ---
@@ -58,10 +58,10 @@ Healthcare-focused Data Analyst with 5+ years of clinical experience as a Licens
 ## 💎 Projects
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| Clinical Data Portfolio | Responsive website showcasing healthcare data insights and case studies | HTML, CSS | [Demo](#) |
-| Patient Readmission Analysis | SQL analysis of hospital readmission patterns and risk factors | SQL, Excel | [Repo](#) |
-| Nurse Scheduling Dashboard | Power BI dashboard to optimize shift scheduling and staffing | Power BI | [Demo](#) |
-| Healthcare Data Viz | Interactive visualizations of patient demographics and outcomes | Python, Matplotlib | [Repo](#) |
+| 💻 Clinical Data Portfolio | Responsive website showcasing healthcare data insights and case studies | HTML, CSS | [Demo](#) |
+| 📊 Patient Readmission Analysis | SQL analysis of hospital readmission patterns and risk factors | SQL, Excel | [Repo](#) |
+| 📊 Nurse Scheduling Dashboard | Power BI dashboard to optimize shift scheduling and staffing | Power BI | [Demo](#) |
+| 🧪 Healthcare Data Viz | Interactive visualizations of patient demographics and outcomes | Python, Matplotlib | [Repo](#) |
 
 ---
 
