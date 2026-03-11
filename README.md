@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I bridge the gap between clinical expertise and data-driven insights. After 5+ years in nursing, I am now leveraging my clinical background to transform healthcare data into actionable insights using SQL and Power BI.
+I bridge the gap between clinical expertise and data-driven insights. After 5+ years in nursing, I leverage my clinical background to transform healthcare data into actionable insights using <strong>SQL</strong>, <strong>Power BI</strong>, and <strong>Excel</strong>.
 </p>
 
 <!-- ===================== LINKS ===================== -->
@@ -21,41 +21,44 @@ I bridge the gap between clinical expertise and data-driven insights. After 5+ y
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠 Tech Stack
-| Category | Skills |
-|---|---|
-| **Data Analysis** | SQL (Certified), Power BI (Learning), Excel |
-| **Healthcare Expertise** | Clinical Data Interpretation, Patient-Centered Care |
-| **Web/Tools** | HTML, CSS, Responsive Web Interfaces |
+<p align="center">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 <!-- ===================== PROFESSIONAL SUMMARY ===================== -->
 ## 🩺 Professional Summary
-Healthcare-focused Data Analyst with 5+ years of clinical experience as a Licensed Nurse. Skilled in **SQL, Python, and Excel** for interpreting patient data and hospital workflows to improve operational efficiency.
+Healthcare-focused Data Analyst with 5+ years of clinical experience as a Licensed Nurse. Skilled in **SQL, Python, and Excel** for interpreting patient data and hospital workflows to improve operational efficiency. Experienced in **clinical documentation, patient safety, and hospital workflow optimization**.
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
 ## 💎 Projects
-<!-- Add more projects here in the future -->
 | Project | Description | Link |
 |---|---|---|
 | Clinical Data Portfolio | Responsive site for showcasing medical insights | [Demo](#) |
 | Healthcare Data Analysis | Pattern identification using Python | [Demo](#) |
+<!-- Add more projects as you expand your portfolio -->
 
 ---
 
 <!-- ===================== SKILLS ===================== -->
 ## ✨ Skills
-- **SQL, Python, Excel**
-- **Power BI, Dashboards, Data Visualization**
-- **Clinical Data Interpretation**
-- **Hospital Workflow Optimization**
+- **Data Analysis:** SQL, Power BI, Excel, Python  
+- **Healthcare Expertise:** Clinical Data Interpretation, Patient-Centered Care  
+- **Web & Tools:** HTML, CSS, Responsive Web Interfaces  
+- **Soft Skills:** Critical Thinking, Problem Solving, Collaboration  
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-Thank you for visiting my profile! 🚀  
+Thank you for visiting my profile! 🚀<br/>
 I’m always excited to connect with like-minded professionals in Healthcare & Data Analytics.
 </p>
