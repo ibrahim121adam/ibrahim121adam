@@ -3,7 +3,7 @@
 <h3 align="center">🩺 Ex-Nurse | 📊 Aspiring Healthcare Data Analyst | 🇦🇪 UAE</h3>
 
 <p align="center">
-  <img src="/2.png" width="150" height="150">
+  <img src="https://github.com/ibrahim121adam/hema.cv/blob/main/2.png" width="150" height="150">
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
