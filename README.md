@@ -2,7 +2,7 @@
 <h1 align="center">Hey! Nice to see you 👋</h1>
 <h3 align="center">🩺 Ex-Nurse | 📊 Aspiring Healthcare Data Analyst | 🇦🇪 UAE</h3>
 
-<img src="profile.jpg.png" alt="Ibrahim Adam" width="150" style="border-radius:50%;">
+<img src="profile.jpg.png" alt="Ibrahim Adam" width="150" style="border-radius:50%;"/>
 
 <!-- ===================== ABOUT ME ===================== -->
 <p align="center">
