@@ -16,7 +16,7 @@ I bridge the gap between clinical expertise and data-driven insights. After 5+ y
 <p align="center">
   <a href="https://linkedin.com/in/ibrahim121adam" target="_blank">💼 LinkedIn</a> • 
   <a href="mailto:ibrahim121adam@gmail.com">📧 Email</a> • 
-  <a href="https://ibrahim121adam.github.io/">🌐 Portfolio</a> • 
+  <a href="https://ibrahim121adam.github.io/cv-repo/">🌐 Portfolio</a> • 
   <a href="https://github.com/ibrahim121adam">🐙 GitHub</a>
 </p>
 
