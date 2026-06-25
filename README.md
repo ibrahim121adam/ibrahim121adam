@@ -3,7 +3,7 @@
 <h3 align="center">🩺 Ex-Nurse | 📊 Aspiring Healthcare Data Analyst | 🇦🇪 UAE</h3>
 
 <p align="center">
-  <img src="profile.jpg.png" alt="Ibrahim Adam" width="150" style="border-radius:50%;"/>
+  <img src="profile.jpg.png" width="150" height="150">
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
