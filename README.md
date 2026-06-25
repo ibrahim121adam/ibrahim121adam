@@ -3,7 +3,7 @@
 <h3 align="center">🩺 Ex-Nurse | 📊 Aspiring Healthcare Data Analyst | 🇦🇪 UAE</h3>
 
 <p align="center">
-  <img src="https://github.com/ibrahim121adam/ibrahim121adam/assets/your-avatar.png" alt="Ibrahim Adam" width="150" style="border-radius:50%;"/>
+  <img src="https://github.com/ibrahim121adam/ibrahim121adam/assets/your-avatar.png" alt="Ibrahim Adam" width="150" style="border-radius:60%;"/>
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
