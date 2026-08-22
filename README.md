@@ -3,9 +3,9 @@
 <h3 align="center">🩺 Ex-Nurse | 📊 Aspiring Healthcare Data Analyst | 🇦🇪 UAE</h3>
 
 <p align="center">
-  <img src="https://github.com/ibrahim121adam/hema.cv/blob/main/cv.png" alt="Ibrahim Adam"  width="150" height="150">
+  <img src="profile.jpg.png" alt="Ibrahim Adam"  width="150" height="150">
 </p>
-
+ 
 <!-- ===================== ABOUT ME ===================== -->
 <p align="center">
 I bridge the gap between clinical expertise and data-driven insights. After 5+ years in nursing, I am now leveraging my clinical background to transform healthcare data into actionable insights using SQL, Power BI, and Python.  
